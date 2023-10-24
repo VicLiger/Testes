@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\bin\Debug\net7.0\Vali.exe
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\bin\Debug\net7.0\Vali.deps.json
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\bin\Debug\net7.0\Vali.runtimeconfig.json
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\bin\Debug\net7.0\Vali.dll
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\bin\Debug\net7.0\Vali.pdb
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\obj\Debug\net7.0\Vali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\obj\Debug\net7.0\Vali.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\obj\Debug\net7.0\Vali.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\obj\Debug\net7.0\Vali.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\obj\Debug\net7.0\Vali.dll
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\obj\Debug\net7.0\refint\Vali.dll
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\obj\Debug\net7.0\Vali.pdb
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\obj\Debug\net7.0\Vali.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documentos\C#\Validacoes\Validacoes\Vali\obj\Debug\net7.0\ref\Vali.dll
